@@ -1,1 +1,1 @@
-A Resturant Survey Form
+A Restaurant Survey Form
